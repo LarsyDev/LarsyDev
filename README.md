@@ -18,16 +18,20 @@ My Socials:</h2>
 
 <h2 align="left">
 
-Languages:</h2>
+Languages and Tools:</h2>
 
 <p align="left">
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp; |
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>&nbsp; |
-  <code><img height="25" src="https://img2.freepng.fr/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg"></code>&nbsp;
-  <code><img height="25" src="https://media.discordapp.net/attachments/795241931621924865/830929328728178708/ufdFD0CAiQAAAABJRU5ErkJggg.png"></code>&nbsp; |
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>&nbsp; |
-  <code><img height="25" src="https://media.discordapp.net/attachments/795241931621924865/830929624028545024/nasm-logo.png"></code>&nbsp;
-  <code><img height="25" src="https://cdn.discordapp.com/attachments/842102514676400128/842531376074850344/index.png"></code>&nbsp;
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+  <code><img height="20" src="https://media.discordapp.net/attachments/795241931621924865/830929328728178708/ufdFD0CAiQAAAABJRU5ErkJggg.png"></code>
+  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
+  <code><img height="20" src="https://media.discordapp.net/attachments/795241931621924865/830929624028545024/nasm-logo.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  <code><img height="20" src="https://cdn.discordapp.com/attachments/805060398716813312/811565843883622400/nuxt-icon_1.png"></code>
 
 **              **
 
