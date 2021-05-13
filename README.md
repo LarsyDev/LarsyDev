@@ -27,6 +27,7 @@ Languages:</h2>
   <code><img height="25" src="https://media.discordapp.net/attachments/795241931621924865/830929328728178708/ufdFD0CAiQAAAABJRU5ErkJggg.png"></code>&nbsp; |
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>&nbsp; |
   <code><img height="25" src="https://media.discordapp.net/attachments/795241931621924865/830929624028545024/nasm-logo.png"></code>&nbsp;
+  <code><img height="25" src="https://cdn.discordapp.com/attachments/842102514676400128/842531376074850344/index.png"></code>&nbsp;
 
 **              **
 
@@ -38,6 +39,6 @@ My Stats:</h2>
   <img src="https://komarev.com/ghpvc/?username=LarsyDev&color=blue">
   <img src="https://img.shields.io/github/stars/LarsyDev?style=social">
 
-<p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=LarsyDev&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Its-Vichy's stats" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarsyDev&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></p>
-
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=LarsyDev&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="LarsyDev's stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarsyDev&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></p>
 <p align="left"> <img align="center" src="https://discord.c99.nl/widget/theme-1/833706558785060915.png"/></p>
