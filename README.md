@@ -45,4 +45,3 @@ My Stats:</h2>
 
 <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=LarsyDev&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="LarsyDev's stats" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarsyDev&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></p>
-<p align="left"> <img align="center" src="https://discord.c99.nl/widget/theme-1/833706558785060915.png"/></p>
